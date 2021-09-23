@@ -15,5 +15,7 @@ let info = function(firstName,lastName,age,subject){
     };
     let myself = info("Juan", "dela Cruz", 20)
     myself.introduce();
-    
+
     myself.enrolled();
+
+    //KITA BA YUNG CHANGES
